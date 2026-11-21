@@ -1,0 +1,19 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets
+keys
+.env
+
+# Generated datasets
+processed_medmcqa.csv
